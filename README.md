@@ -19,7 +19,7 @@ Le Jeu du Pendu est une adaptation en Java du célèbre jeu où vous devez devin
 🚀 Installation
 
 1. Cloner le dépôt :
-   git clone https://github.com/TonPseudo/JeuPendu.git
+   git clone https://github.com/Naosh1/Jeu-du-Pendu-JAVA-
    cd JeuPendu
 
 2. Compiler le projet :
