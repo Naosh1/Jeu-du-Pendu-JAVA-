@@ -2,7 +2,7 @@
 
 
 📖 Description
-Le Jeu du Pendu est une adaptation en Java du célèbre jeu où vous devez deviner un mot en proposant des lettres. Avec des fonctionnalités interactives et un choix de mots aléatoires, ce jeu offre une expérience amusante dans un terminal.
+Le Jeu du Pendu est une adaptation en Java du jeu où vous devez deviner un mot en proposant des lettres. Avec des fonctionnalités interactives et un choix de mots aléatoires, ce jeu offre une expérience amusante dans un terminal.
 
 ---
 
