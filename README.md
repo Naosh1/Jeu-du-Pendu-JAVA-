@@ -28,10 +28,6 @@ Le Jeu du Pendu est une adaptation en Java du jeu où vous devez deviner un mot 
 3. Lancer le jeu :
    java Main
 
-4. Optionnel : Utiliser IntelliJ IDEA
-   - Ouvrez le projet dans IntelliJ IDEA.
-   - Lancez la classe Main pour commencer la partie.
-
 ---
 
 🎮 Comment jouer ?
